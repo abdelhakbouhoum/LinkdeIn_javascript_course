@@ -21,3 +21,4 @@ const everydayCar = new Car(
 
 console.log("the everydayCar object:", everydayCar);
 console.log("The Matricule is:", everydayCar.matricul);
+console.log("The Matricule is:", everydayCar.model);
